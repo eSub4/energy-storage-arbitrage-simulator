@@ -1,0 +1,30 @@
+ZUSAMMENFASSUNG FÜR WINDOW SIZE 16
+============================================================
+
+PARAMETER:
+- Window Size: 16 Intervalle (240 Minuten)
+- Horizont: 4.00 Stunden
+
+ERGEBNISSE:
+- Jahresgewinn: 11,353.87 €
+- Anzahl Transaktionen: 3007
+- Batteriezyklen: 187.75
+- Ø Kaufpreis: 52.07 €/MWh
+- Ø Verkaufspreis: 132.53 €/MWh
+- Preisspreizung: 80.46 €/MWh
+- Gewinn pro Zyklus: 60.47 €/Zyklus
+- NPV: -131,580.61 €
+
+MONATSGEWINNE:
+- 2024-01: 356.44 €
+- 2024-02: 394.38 €
+- 2024-03: 590.02 €
+- 2024-04: 924.74 €
+- 2024-05: 1,055.50 €
+- 2024-06: 1,141.52 €
+- 2024-07: 1,171.92 €
+- 2024-08: 1,455.57 €
+- 2024-09: 1,304.45 €
+- 2024-10: 1,127.68 €
+- 2024-11: 990.86 €
+- 2024-12: 840.79 €

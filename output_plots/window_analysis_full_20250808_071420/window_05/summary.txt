@@ -1,0 +1,30 @@
+ZUSAMMENFASSUNG FÜR WINDOW SIZE 5
+============================================================
+
+PARAMETER:
+- Window Size: 5 Intervalle (75 Minuten)
+- Horizont: 1.25 Stunden
+
+ERGEBNISSE:
+- Jahresgewinn: 17,722.85 €
+- Anzahl Transaktionen: 4050
+- Batteriezyklen: 253.00
+- Ø Kaufpreis: 41.72 €/MWh
+- Ø Verkaufspreis: 131.54 €/MWh
+- Preisspreizung: 89.82 €/MWh
+- Gewinn pro Zyklus: 70.05 €/Zyklus
+- NPV: -46,957.24 €
+
+MONATSGEWINNE:
+- 2024-01: 317.36 €
+- 2024-02: 333.84 €
+- 2024-03: 744.69 €
+- 2024-04: 1,556.33 €
+- 2024-05: 1,756.17 €
+- 2024-06: 1,957.40 €
+- 2024-07: 2,228.87 €
+- 2024-08: 2,432.24 €
+- 2024-09: 2,290.20 €
+- 2024-10: 1,607.31 €
+- 2024-11: 1,238.70 €
+- 2024-12: 1,259.76 €

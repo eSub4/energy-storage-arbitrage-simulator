@@ -1,0 +1,30 @@
+ZUSAMMENFASSUNG FÜR WINDOW SIZE 7
+============================================================
+
+PARAMETER:
+- Window Size: 7 Intervalle (105 Minuten)
+- Horizont: 1.75 Stunden
+
+ERGEBNISSE:
+- Jahresgewinn: 11,650.33 €
+- Anzahl Transaktionen: 2931
+- Batteriezyklen: 183.00
+- Ø Kaufpreis: 49.25 €/MWh
+- Ø Verkaufspreis: 132.95 €/MWh
+- Preisspreizung: 83.71 €/MWh
+- Gewinn pro Zyklus: 63.66 €/Zyklus
+- NPV: -127,152.87 €
+
+MONATSGEWINNE:
+- 2024-01: 257.33 €
+- 2024-02: 280.92 €
+- 2024-03: 504.61 €
+- 2024-04: 933.33 €
+- 2024-05: 1,130.50 €
+- 2024-06: 1,293.78 €
+- 2024-07: 1,308.64 €
+- 2024-08: 1,437.60 €
+- 2024-09: 1,300.78 €
+- 2024-10: 1,188.30 €
+- 2024-11: 1,102.12 €
+- 2024-12: 912.41 €

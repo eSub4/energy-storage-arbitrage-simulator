@@ -1,0 +1,28 @@
+# Konfiguration zum Zeitpunkt der Simulation
+# Automatisch generiert von der Simulationssoftware
+
+ADDITIONAL_COSTS_PERCENTAGE = 67.0
+ANNUAL_DEGRADATION_RATE = 2.0
+ANNUAL_OPEX_PERCENTAGE = 0.75
+BASE_DIR = c:\Users\tillw\OneDrive\Bachelorarbeit\01_Pythoncode\energy-storage-arbitrage-simulator
+BATTERY_COST_PER_MWH = 85000.0
+CAPACITY_MWH = 1.0
+CHARGE_DISCHARGE_RATE = 0.5
+CYCLE_DEGRADATION_RATE = 0.005
+DEFAULT_ANNUAL_CYCLES = 300
+DEFAULT_PRICE_FILE = c:\Users\tillw\OneDrive\Bachelorarbeit\01_Pythoncode\energy-storage-arbitrage-simulator\SMARD_15min_Jahr 2024_DE\Gro_handelspreise_202401010000_202501010000_Viertelstunde.csv
+DISCOUNT_RATE = 0.05
+EFFICIENCY = 0.85
+FEE_PER_MWH = 0.0
+INFLATION_RATE = 2.0
+INSURANCE_PERCENTAGE = 0.5
+INVERTER_COST_PER_MW = 75000.0
+MAINTENANCE_COST_PER_MWH = 2500.0
+MAX_CYCLE_DEGRADATION = 0.3
+MAX_LIFETIME_CYCLES = 8000
+OUTPUT_DIR = 'output_plots'
+Path = <class 'pathlib.Path'>
+ROLLING_WINDOW_SIZE = 6
+SAVE_PLOTS = True
+SIMULATION_YEARS = 15
+VISUALIZE_FREQUENCY = 1

@@ -1,0 +1,30 @@
+ZUSAMMENFASSUNG FÜR WINDOW SIZE 3
+============================================================
+
+PARAMETER:
+- Window Size: 3 Intervalle (45 Minuten)
+- Horizont: 0.75 Stunden
+
+ERGEBNISSE:
+- Jahresgewinn: 16,280.53 €
+- Anzahl Transaktionen: 3384
+- Batteriezyklen: 211.38
+- Ø Kaufpreis: 34.62 €/MWh
+- Ø Verkaufspreis: 131.39 €/MWh
+- Preisspreizung: 96.77 €/MWh
+- Gewinn pro Zyklus: 77.02 €/Zyklus
+- NPV: -63,838.30 €
+
+MONATSGEWINNE:
+- 2024-01: 254.08 €
+- 2024-02: 282.27 €
+- 2024-03: 649.64 €
+- 2024-04: 1,481.78 €
+- 2024-05: 1,652.66 €
+- 2024-06: 1,865.62 €
+- 2024-07: 2,088.63 €
+- 2024-08: 2,348.12 €
+- 2024-09: 2,121.44 €
+- 2024-10: 1,306.34 €
+- 2024-11: 1,047.71 €
+- 2024-12: 1,182.25 €
