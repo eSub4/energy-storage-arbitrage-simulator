@@ -149,10 +149,6 @@ Die Simulation mit den optimierten Parametern (`ROLLING_WINDOW_SIZE = 6`) für d
 - **Optimierung**: scipy, optuna
 - **Dokumentation**: siehe documentation.pdf
 
-## 📝 Lizenz
-
-Apache 2.0
-
 ## 👤 Autor
 
 - **Name**: Till Jonas Wellkamp
